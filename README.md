@@ -26,11 +26,13 @@ The figue 2 present the total ride by city for the three regions. We can conclud
 
 The figure 3 present an aggregation of all the "ride_id" for each region. This present the urban regions with a wild deviation and a data (39) above our chart. This figure concluse again the popularity of this service for the urban region, but it was confirm that some cities are not using this service as it should be.
 
+## Price analysis
+
 ### Figure 4: Price rides
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig3.png?raw=true" width="450" />
 
-## Price analysis
+The figure 4 show again the overlap between the rural and suburban with similar pricing. The urban has a median of 24 with a standard deviation of 5.4 and the suburan area has a median of 17 with a standard deviation of 4.3. This could be possible meaning that the people use this service to travel between these 2 areas.
 
 ### Figure 5: Timeline of price evolution
 
@@ -45,5 +47,5 @@ In order to asses the market activity, the figure show the price evolution from 
 ### Recommendations
 
 - The total fares evolution seems to be steady. From an external view, the ride-sharing is popular and we would expect a steady increase for total fares.
-- Focus on Urban doing Suburban trips if possible when the the drivers are able to be near the Suburban area.
+- Urban doing Suburban trips if possible when the the drivers are able to be near the Suburban area and reduce the wild deviation for the urban area.
 - Rural cities present a wild standard deviation. It could be possible that some rural are not fully aware of this service or simple against it.
