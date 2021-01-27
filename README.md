@@ -14,25 +14,27 @@ The table 1 present the tree cities at a high level. The urban region seems to b
 
 ## Figure 2: ride-sharing by city area
 
-<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig1.png?raw=true" width="650" />
+<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig1.png?raw=true" width="350" />
 
 The figue 2 present
 
 ## Figure 3: Total Ride
 
-<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig2.png?raw=true" width="650" />
+<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig2.png?raw=true" width="350" />
 
 ## Figure 4: Price rides
 
-<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig3.png?raw=true" width="650" />
+<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig3.png?raw=true" width="350" />
 
 ## Figure 5: Timeline of price evolution
 
-<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true" width="650" />
+<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true" width="350" />
+
+In order to asses the market activity, the figure show the price evolution from 2019-01-01 to 2019-04-28 for the three regions.
 
 ## Figure 3: Total Drivers
 
-<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig4.png?raw=true" width="650" />
+<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig4.png?raw=true" width="350" />
 
 ### Recommendations
 
