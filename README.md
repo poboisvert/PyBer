@@ -10,7 +10,9 @@ The figures and tables are based on a bataset that include 66 urbans cities, 18 
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/table.png?raw=true" width="650" />
 
-The table 1 present the tree cities at a high level. The urban region seems to be the most popular for the driver which would make sense because this is the most densified. By having the highest drivers, it generates also the highest rides count. The major downside of working in the most densified area would be the average salary is the lowest since each trip are shorter. The urban has 1,625 rides and the suburbans has 490 which is 30% of the urban area, but the average fare (suburban area) per ride is $30.97 and the average fare per driver is $39.50. This could mean that some cities would require more drivers in order to meet the demande for some cities in the suburban area.
+The table 1 present the tree cities at a high level. The urban region seems to be the most popular for the driver which would make sense because this is the most densified. By having the highest drivers, it generates also the highest rides count. The major downside of working in the most densified area would be the average salary is the lowest since each trip are shorter.
+
+The highlight of this analysis if the urban has 1,625 rides and the suburbans has 490 which is 30% of the urban area, but the average fare (suburban area) per ride is $30.97 and the average fare per driver is $39.50. This could mean that some cities would require more drivers in order to meet the demande for some cities in the suburban area.
 
 ## Ride analysis
 
