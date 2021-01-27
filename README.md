@@ -6,33 +6,39 @@ The goal of this project was to give insights on a dataset aggregating ride-shar
 
 The figures and tables are based on a bataset that include 66 urbans cities, 18 rurals cities and 36 Suburbans cities with all the drivers and fare recorded for each area.
 
+## Ride analysis
+
 ## Table 1: ride-sharing by city area
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/table.png?raw=true" width="650" />
 
 The table 1 present the tree cities at a high level. The urban region seems to be the most popular for the driver which would make sense because this is the most densified. By having the highest drivers, it generates also the highest rides count. The major downside of working in the most densified area would be the average salary is the lowest since each trip are shorter.
 
-## Figure 2: ride-sharing by city area
+### Figure 2: ride-sharing by city area
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig1.png?raw=true" width="450" />
 
-The figue 2 present
+The figue 2 present the total ride by city for the three regions. We can conclude that some suburban and urban region have the same activities in rides, but the suburban regions are more lucrative. This would be logical because the trip are longer for the suburban area and the people are usually older and can afford longer trip.
 
-## Figure 3: Total Ride
+### Figure 3: Total Ride for each region
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig2.png?raw=true" width="450" />
 
-## Figure 4: Price rides
+The figure 3 present an aggregation of all the "ride_id" for each region. This present the urban regions with a wild deviation and a data (39) above our chart. This figure concluse again the popularity of this service for the urban region, but it was confirm that some cities are not using this service as it should be.
+
+### Figure 4: Price rides
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig3.png?raw=true" width="450" />
 
-## Figure 5: Timeline of price evolution
+## Price analysis
+
+### Figure 5: Timeline of price evolution
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true" width="450" />
 
 In order to asses the market activity, the figure show the price evolution from 2019-01-01 to 2019-04-28 for the three regions.
 
-## Figure 3: Total Drivers
+### Figure 3: Total Drivers
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig4.png?raw=true" width="450" />
 
