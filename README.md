@@ -40,7 +40,7 @@ The figure 3 show again the overlap between the rural and suburban with similar 
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true" width="450" />
 
-In order to asses the market activity, the figure show the price evolution from 2019-01-01 to 2019-04-28 for the three regions. The information that we can conclude is the fares by city are not increasing.
+In order to asses the market activity, the figure show the price evolution from 2019-01-01 to 2019-04-28 for the three regions. The information that we can conclude that the totalfares by city seems to be steady without drastic increase.
 
 ## Total drivers
 
