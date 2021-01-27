@@ -6,7 +6,7 @@ The goal of this project was to give insights on a dataset aggregating ride-shar
 
 ## Table 1: fares and total of ride-sharing of each city area
 
-<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/table.png?raw=true" width="450" />
+<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/table.png?raw=true" width="650" />
 
 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
