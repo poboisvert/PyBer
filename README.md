@@ -12,10 +12,24 @@ The figures and tables are based on a bataset that include 66 urbans cities, 18 
 
 ## Figure 2: ride-sharing by city area
 
-<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/chart.png?raw=true" width="650" />
+<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig1.png?raw=true" width="650" />
 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 Summary:
+
+
+## Figure 3: Total Ride
+
+<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig2.png?raw=true" width="650" />
+
+## Figure 4: Price rides
+
+<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig3.png?raw=true" width="650" />
+
+
+## Figure 3: Total Drivers
+
+<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig4.png?raw=true" width="650" />
 
 ### Recommendations
 
