@@ -4,11 +4,13 @@ The goal of this project was to give insights on a dataset aggregating ride-shar
 
 # Overview & results of the analysis
 
+The figures and tables are based on a bataset that include 66 urbans cities, 18 rurals cities and 36 Suburbans cities with all the drivers and fare recorded for each area.
+
 ## Table 1: ride-sharing by city area
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/table.png?raw=true" width="650" />
 
-## Figure 1: ride-sharing by city area
+## Figure 2: ride-sharing by city area
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/chart.png?raw=true" width="650" />
 
