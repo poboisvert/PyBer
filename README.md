@@ -40,13 +40,15 @@ The figure 4 show again the overlap between the rural and suburban with similar 
 
 In order to asses the market activity, the figure show the price evolution from 2019-01-01 to 2019-04-28 for the three regions.
 
+## Total drivers
+
 ### Figure 3: Total Drivers
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig4.png?raw=true" width="450" />
 
 The urban has 1,625 rides and the suburbans has 490 which is 30% of the urban area, but the average fare (suburban area) per ride is $30.97 and the average fare per driver is $39.50. This could mean that some cities would require more drivers in order to meet the demande for some cities in the suburban area.
 
-### Recommendations
+## Recommendations
 
 - The total fares evolution seems to be steady. From an external view, the ride-sharing is popular and we would expect a steady increase for total fares.
 - Hire drivers for the suburbans area and since the price is similar with the urban area, the driver could mix between the areas when possible.
