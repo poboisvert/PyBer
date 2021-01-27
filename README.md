@@ -14,30 +14,30 @@ The table 1 present the tree cities at a high level. The urban region seems to b
 
 ## Figure 2: ride-sharing by city area
 
-<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig1.png?raw=true" width="350" />
+<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig1.png?raw=true" width="450" />
 
 The figue 2 present
 
 ## Figure 3: Total Ride
 
-<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig2.png?raw=true" width="350" />
+<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig2.png?raw=true" width="450" />
 
 ## Figure 4: Price rides
 
-<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig3.png?raw=true" width="350" />
+<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig3.png?raw=true" width="450" />
 
 ## Figure 5: Timeline of price evolution
 
-<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true" width="350" />
+<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true" width="450" />
 
 In order to asses the market activity, the figure show the price evolution from 2019-01-01 to 2019-04-28 for the three regions.
 
 ## Figure 3: Total Drivers
 
-<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig4.png?raw=true" width="350" />
+<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig4.png?raw=true" width="450" />
 
 ### Recommendations
 
-1 - The "Rural" area provide the highest "Average per Ride" which mean these are long and lucrative ride. We would recommend to stimulate accordinly to the size of the population in order to generate profits.
-2 - Focus on Urban doing Suburban trips if possible when the the drivers are able to be near the Suburban area.
-3 - Rural cities present a wild standard deviation. It could be possible that some rural are not fully aware of this service or simple against it.
+- The total fares evolution seems to be steady. From an external view, the ride-sharing is popular and we would expect a steady increase for total fares.
+- Focus on Urban doing Suburban trips if possible when the the drivers are able to be near the Suburban area.
+- Rural cities present a wild standard deviation. It could be possible that some rural are not fully aware of this service or simple against it.
