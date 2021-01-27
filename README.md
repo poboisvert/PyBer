@@ -1,6 +1,6 @@
 # PyBer Project Overview
 
-The goal of this project was to give insights on a dataset aggregating ride-sharing data and production charts on the total weekly fares for each city type.
+The goal of this project was to give insights on a dataset by aggregating ride-sharing data and production charts on the total weekly fares for each city to determine affordability and underserved area.
 
 ## Overview & results of the analysis
 
@@ -60,4 +60,4 @@ The figure 6 present the total count of all the "ride_id" against the total ride
 
 - The total fares evolution seems to be steady. From an external view, the ride-sharing is popular and we would expect a steady increase for total fares.
 - Hire drivers for the suburbans area and since the price is similar with the urban area, the driver could mix between the areas when possible.
-- Rural cities present a wild standard deviation. It could be possible that some rural are not fully aware of this service or simple against it.
+- Rural cities present a wild standard deviation. It could be possible that some rural are not fully aware of this service or the price in some cities are simply to expense for the customers.
