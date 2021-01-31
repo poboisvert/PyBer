@@ -61,6 +61,6 @@ The figure 6 present the total count of all the "ride_id" against the total ride
 
 ## Recommendations
 
-- The total fares evolution seems to be steady. From an external view, the ride-sharing is popular and we would expect a steady increase for the total fares.
-- Hire drivers for the suburbans area and since the price is similar with the urban area, the driver could mix between the areas when possible.
+- The total fares evolution seems to be steady. From an external view, the ride-sharing is popular and we would expect a steady increase. An issue could be either the way the service is seen by the client or the way the drivers operate.
+- Hire drivers for the suburbans area and since the price is similar with the urban area, but there is less drivers (figure 5). The driver could mix between the areas when possible and generate more income.
 - Rural cities present a wild standard deviation. It could be possible that some rural are not fully aware of this service or the price in some cities are simply to expense for the customers.
