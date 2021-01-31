@@ -10,7 +10,7 @@ The figures and tables are based on a bataset that include 66 urbans cities, 18 
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/table.png?raw=true" width="750" />
 
-The table 1 present the tree cities at a high level. The urban region seems to be the most popular for the driver which would make sense because this is the most densified. By having the highest drivers, it generates also the highest rides count. The major downside of working in the most densified area would be the average salary is the lowest since each trip are shorter.
+The table 1 present the tree cities at a high level. The urban region seems to be the most popular for the driver which would make sense because this is the most densified. By having the highest drivers, it generates also the highest rides count and total fare. The major downside of working in the most densified area would be the average salary is the lowest since each trip are shorter.
 
 The urban area give a average fare against the total driver $16.57, the suburban $39.50 and the rural $55.48. This pricing could be caused by an overcrowded market in the urban area or a mismanagement. 
 
