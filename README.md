@@ -18,7 +18,7 @@ The highlight of this analysis if the urban has 1,625 rides and the suburbans ha
 
 ### Figure 1: ride-sharing by city area
 
-<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig1.png?raw=true" width="450" />
+<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig1.png?raw=true" width="600" />
 
 The figue 1 present the total ride by city for the three regions. We can conclude that (1) some suburban and urban region have the same activities in rides by looking at the bubble size and (2) the suburban regions provide a higher fare. This would be logical because the trip are longer for the suburban area and the people are usually older and can afford longer trip. 
 
