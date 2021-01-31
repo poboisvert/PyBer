@@ -2,13 +2,12 @@
 
 The goal of this project was to give insights on a dataset by aggregating ride-sharing data and production charts on the total weekly fares for each city to determine affordability and underserved area.
 
-## Overview & results of the analysis
-
-The figures and tables are based on a bataset that include 66 urbans cities, 18 rurals cities and 36 Suburbans cities with all the drivers and fare recorded for each area.
-
-##Resources
+## Resources
 - Datasets (Resources folder): city_data.csv, ride_data.csv 
 - Software: Python 3.8.5
+
+## Overview & results of the analysis
+The figures and tables are based on a bataset that include 66 urbans cities, 18 rurals cities and 36 Suburbans cities with all the drivers and fare recorded for each area.
 
 ### Table 1: Executive Summary (ride-sharing by area)
 
