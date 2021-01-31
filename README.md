@@ -26,7 +26,7 @@ The figue 1 present the total ride by city for the three regions. We can conclud
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig2.png?raw=true" width="450" />
 
-The figure 2 present an aggregation of all the "ride_id" for each region. This present the urban regions with a wild deviation and a data (39) above our chart. This figure concluse again the popularity of this service for the urban region, but it was confirm that some cities are not using this service as it should be.
+The figure 2 present an aggregation of all the "ride_id" for each region. This present the urban regions with a wild deviation and a data (39) above our chart. This figure concluse again the popularity of this service for the urban region (the size of each buble is the aggration of all the rides completed), but it also confirm that some cities are not using this service as it should be.
 
 ## Price analysis
 
