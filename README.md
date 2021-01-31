@@ -47,13 +47,13 @@ In order to asses the market activity, the figure 4 show the total fare evolutio
 
 ## Total drivers
 
-### Figure 5: Total Drivers
+### Figure 5: Total Drivers distribution by city
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig4.png?raw=true" width="450" />
 
 The urban has 1,625 rides and the suburbans has 490 which is 30% of the urban area, but the average fare (suburban area) per ride is $30.97 and the average fare per driver is $39.50. This could mean that some cities would require more drivers in order to meet the demande for some cities in the suburban area.
 
-### Figure 6: Total Drivers
+### Figure 6: (%) Total Drivers by city
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig6.png" width="450" />
 
