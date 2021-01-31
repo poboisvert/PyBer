@@ -54,7 +54,7 @@ The urban has 1,625 rides and the suburbans has 490 which is 30% of the urban ar
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig6.png" width="450" />
 
-The figure 6 present the total count of all the "ride_id" against the total ride count. With the figure 5, we can conclude that the suburban with a median of 16 drivers and 37 median for the rural area, the suburban is 50% of drivers present a higher fare with a small market shares.
+The figure 6 present the total count of all the "ride_id" against the total ride count. With the figure 5, we can conclude that the suburban with a median of 16 drivers and 37 median, the suburban is 50% of drivers present a higher fare with a small market shares.
 
 ## Recommendations
 
