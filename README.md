@@ -8,7 +8,7 @@ The figures and tables are based on a bataset that include 66 urbans cities, 18 
 
 ### Table 1: ride-sharing by city area
 
-<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/table.png?raw=true" width="650" />
+<img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/table.png?raw=true" width="750" />
 
 The table 1 present the tree cities at a high level. The urban region seems to be the most popular for the driver which would make sense because this is the most densified. By having the highest drivers, it generates also the highest rides count. The major downside of working in the most densified area would be the average salary is the lowest since each trip are shorter.
 
