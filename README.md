@@ -20,13 +20,13 @@ The highlight of this analysis if the urban has 1,625 rides and the suburbans ha
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig1.png?raw=true" width="450" />
 
-The figue 1 present the total ride by city for the three regions. We can conclude that some suburban and urban region have the same activities in rides, but the suburban regions are more lucrative. This would be logical because the trip are longer for the suburban area and the people are usually older and can afford longer trip.
+The figue 1 present the total ride by city for the three regions. We can conclude that (1) some suburban and urban region have the same activities in rides by looking at the bubble size and (2) the suburban regions provide a higher fare. This would be logical because the trip are longer for the suburban area and the people are usually older and can afford longer trip. 
 
 ### Figure 2: Total Ride for each region
 
 <img src="https://github.com/poboisvert/PyBer_Analysis/blob/main/analysis/Fig2.png?raw=true" width="450" />
 
-The figure 2 present an aggregation of all the "ride_id" for each region. This present the urban regions with a wild deviation and a data (39) above our chart. This figure concluse again the popularity of this service for the urban region (the size of each buble is the aggration of all the rides completed), but it also confirm that some cities are not using this service as it should be.
+The figure 2 present an aggregation of all the "ride_id" for each region. The urban regions has a wild deviation and a data (39) above our chart. This figure concluse again the popularity of this service for the urban region (the size of each buble is the aggration of all the rides completed), but it also confirm that some cities are not using this service as it should be. We suppose for the urban are a higher densification, a higher rent and the young population may want to make a second income.
 
 ## Price analysis
 
